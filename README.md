@@ -18,3 +18,6 @@
 # timer 2 pwm
 
 <img width="444" height="287" alt="image" src="https://github.com/user-attachments/assets/a49829f7-fdc5-42bc-829c-39fad3c88257" />
+
+
+<img width="423" height="338" alt="image" src="https://github.com/user-attachments/assets/8054fe93-576d-4548-be97-d736932acf59" />
