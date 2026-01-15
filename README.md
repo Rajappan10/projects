@@ -14,3 +14,7 @@
 # I2C
 
 <img width="513" height="422" alt="image" src="https://github.com/user-attachments/assets/32a0a2a3-b0e7-40a8-880a-6623805b8b14" />
+
+# timer 2 pwm
+
+<img width="444" height="287" alt="image" src="https://github.com/user-attachments/assets/a49829f7-fdc5-42bc-829c-39fad3c88257" />
