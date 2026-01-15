@@ -10,3 +10,7 @@
 # UART
 
 <img width="611" height="392" alt="image" src="https://github.com/user-attachments/assets/8b86ffcb-5856-4534-a6d3-9c350222cd5d" />
+
+# I2C
+
+<img width="513" height="422" alt="image" src="https://github.com/user-attachments/assets/32a0a2a3-b0e7-40a8-880a-6623805b8b14" />
